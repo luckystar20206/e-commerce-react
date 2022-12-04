@@ -1,0 +1,31 @@
+.header__modal {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.header__modal img {
+    width: 53px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 2px;
+}
+
+.header__modal h3 {
+    font-size: 17px;
+    margin-bottom: 34px;
+    margin: 0;
+}
+
+.header__modal p {
+    color: #797979;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.card__delete {
+    color: #ca5252;
+    float: right;
+    position: relative;
+    top: -50px;
+    cursor: p;
+}

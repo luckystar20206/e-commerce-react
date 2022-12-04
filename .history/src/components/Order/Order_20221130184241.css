@@ -1,0 +1,23 @@
+.header__modal {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.header__modal img {
+    width: 70px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 5px;
+    border-radius: 2px;
+}
+
+.header__modal h3 {
+    font-size: 17px;
+    margin-bottom: 34px;
+}
+
+.header__modal p {
+    color: #797979;
+    font-weight: 500;
+    font-size: 17px;
+}

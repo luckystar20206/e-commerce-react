@@ -1,0 +1,8 @@
+.categories div {
+    display: inline;
+    background: #e7e7e7;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    
+}

@@ -1,0 +1,24 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(34, 34, 34, 0.953);
+    z-index: 9999;
+    overflow: auto;
+}
+
+.modal__img {
+    display: grid;
+    plac
+}
+
+.modal__wrapper {
+    width: 600px;
+    position: relative;
+    margin: 10% auto;
+    padding: 40px 30px;
+    background: #fff;
+    border-radius: 9px;
+}

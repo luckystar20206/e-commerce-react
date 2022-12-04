@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #fff;
+	color: #222;
+	font-family: 'Roboto Mono', monospace;
+}
+
+
+.app {
+	width: 1280px;
+	margin: 50px auto;
+}
+
+.header {
+	font-weight: 500;
+	font-size: 22px;
+}
+
+.header__images {
+	margin: 50px auto;
+	background: url('./img/main_img.jpg') no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-blend-mode: multiply;
+	background-color: #bcbcbc;
+	border-radius: 6px;
+	width: 100vh;
+	height: 600px;
+	position: relative;
+}
+
+.header__images::after {
+	content: 'Premium renovation for your home';
+	max-width: 400px;
+	position: absolute;
+	top: 250px;
+	left: 50px;
+	font-size: 35px;
+	font-weight: 500;
+	color: #fff
+}
+
+.header__images::before {
+	content: 'At favorable prices';
+	position: absolute;
+	top: 360px;
+	left: 50px;
+	font-size: 15px;
+	font-weight: 300;
+	color: #fff
+}
