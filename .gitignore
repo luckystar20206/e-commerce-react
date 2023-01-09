@@ -2,8 +2,7 @@
 /node_modules
 /.pnp
 .pnp.js
-
-/.histoty
+/.history
 
 # testing
 /coverage
