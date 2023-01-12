@@ -3,7 +3,6 @@
 ### Сайт предоставляет услуги реализации ремонта класса "Lux"
 ____
 ## Технологии проекта
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=Css3)
